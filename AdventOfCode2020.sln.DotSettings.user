@@ -2,5 +2,11 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=199df89a_002Da886_002D4e2d_002D908a_002Df12b8255b5c6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Day01Part1TEst" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day03.Day03Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day04.Day04Test.Day04Part1Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day04.Day04Test.Solution1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day04.Day04Test.Day04Part2AllInvalid&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day04.Day04Test.Day04Part2AllValid&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day04.Day04Test.Solution2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day04.Day04Test&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
