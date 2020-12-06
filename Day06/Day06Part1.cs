@@ -7,8 +7,8 @@ namespace AdventOfCode2020.Day06
     {
         public static int Solve(string input)
         {
-            var groups = input.Split($"{Environment.NewLine}{Environment.NewLine}");
-            return groups
+            return input
+                .Split($"{Environment.NewLine}{Environment.NewLine}")
                 .SelectMany(x => x.Distinct())
                 .Count(x => x != '\r' && x != '\n');
         }
