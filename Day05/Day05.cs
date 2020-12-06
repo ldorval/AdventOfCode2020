@@ -8,7 +8,8 @@ namespace AdventOfCode2020.Day05
     {
         public static double SolvePart1(IList<string> boardingPasses)
         {
-            return boardingPasses.Select(GetSeatId)
+            return boardingPasses
+                .Select(GetSeatId)
                 .OrderByDescending(x => x)
                 .First();
         }
