@@ -11,5 +11,9 @@
     &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day05.Day05Test.ExamplePart1&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day05.Day05Test.Solution1&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day05.Day05Test.Solution2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day06.Day06Test.ExamplePart1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day06.Day06Test.SolutionPart1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day06.Day06Test.ExamplePart2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day06.Day06Test.SolutionPart2&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
