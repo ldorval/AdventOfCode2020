@@ -20,6 +20,10 @@
     &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day08.Day08Test.Solution1&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day08.Day08Test.ExamplePart2&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day08.Day08Test.Solution2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day09.Day09Test.Example1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day09.Day09Test.Solution1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day09.Day09Test.ExamplePart2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day09.Day09Test.Solution2&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2f5e0051_002D7557_002D4adc_002Dbb64_002D17e8ebdca59e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ExamplePart1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
