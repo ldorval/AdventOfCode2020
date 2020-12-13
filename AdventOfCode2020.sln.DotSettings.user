@@ -5,35 +5,7 @@
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2f5e0051_002D7557_002D4adc_002Dbb64_002D17e8ebdca59e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ExamplePart1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;Or&gt;&#xD;
-    &lt;And&gt;&#xD;
-      &lt;TestAncestor&gt;&#xD;
-        &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day07.Day07Test.ExamplePart1&lt;/TestId&gt;&#xD;
-        &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day07.Day07Test.SolutionPart1&lt;/TestId&gt;&#xD;
-        &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day07.Day07Test.Example1Part2&lt;/TestId&gt;&#xD;
-        &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day07.Day07Test.Example2Part2&lt;/TestId&gt;&#xD;
-        &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day07.Day07Test.SolutionPart2&lt;/TestId&gt;&#xD;
-        &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day07.Day07Test.Example1Part1&lt;/TestId&gt;&#xD;
-        &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day08.Day08Test.Example1&lt;/TestId&gt;&#xD;
-        &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day10.Day10Test&lt;/TestId&gt;&#xD;
-      &lt;/TestAncestor&gt;&#xD;
-      &lt;Not&gt;&#xD;
-        &lt;And&gt;&#xD;
-          &lt;Project Location="C:\Dev\Git\AdventOfCode2020" Presentation="&amp;lt;AdventOfCode2020&amp;gt;" /&gt;&#xD;
-          &lt;Namespace&gt;AdventOfCode2020.Day07&lt;/Namespace&gt;&#xD;
-        &lt;/And&gt;&#xD;
-      &lt;/Not&gt;&#xD;
-    &lt;/And&gt;&#xD;
-    &lt;TestAncestor&gt;&#xD;
-      &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day11.Day11Test.ExamplePart1&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day11.Day11Test.SolutionPart1&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day11.Day11Test&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day12.Day12Test.ExamplePart1&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day12.BoatTest.MoveNorthIncreasesYPosition&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day12.BoatTest&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day12.Day12Test.Solution1&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day12.Day12Test&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day12.Boat2Test&lt;/TestId&gt;&#xD;
-    &lt;/TestAncestor&gt;&#xD;
-  &lt;/Or&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2953AC3-0B97-4C0F-98BF-A9CBAB08C2E5::.NETCoreApp,Version=v3.1::AdventOfCode2020.Day13.Day13Test&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
